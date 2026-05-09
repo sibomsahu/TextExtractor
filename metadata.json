@@ -1,0 +1,6 @@
+{
+  "name": "TextExtractor",
+  "description": "A web-based OCR tool that allows users to extract text from any image instantly for free without logging in.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
